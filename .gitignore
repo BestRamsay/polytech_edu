@@ -1,3 +1,4 @@
 */.venv
 */*/__pycache__
 .obsidian/workspace.json
+.DS_Storex

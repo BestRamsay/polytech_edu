@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b2e5082109c6027d",
+        "id": "da00f68b72449ba9",
         "type": "tabs",
         "children": [
           {
-            "id": "3e1d2a71ff09f2d9",
+            "id": "8fad9cb25fd23b1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "behavior_analysis/09.09.26 lec - Цифровая криминалистика.md",
+                "file": "cyber_regulation/Лекция 15.09.26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "09.09.26 lec - Цифровая криминалистика"
+              "title": "Лекция 15.09.26"
             }
           }
         ]
@@ -46,7 +46,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -179,17 +179,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
     }
   },
-  "active": "3e1d2a71ff09f2d9",
+  "active": "8fad9cb25fd23b1c",
   "lastOpenFiles": [
+    "cyber_regulation/README.md",
+    "cyber_regulation/Лекция 15.09.26.md",
+    "Через терни к офшору.md",
+    "behavior_analysis/09.09.26 lec - Цифровая криминалистика.md",
     "db_sec/lab_1_v7/__pycache__/lab1.cpython-314.pyc",
     "db_sec/lab_1_v7/__pycache__",
     "db_sec/lab_1_v7/sed5zQLmG",
@@ -202,9 +206,7 @@
     "db_sec/lab_1_v7/matrix.md",
     "db_sec/lab_1_v7/access.sql",
     "db_sec/lab_1_v7/data.sql",
-    "db_sec/lab_1_v7/schema.sql",
     "behavior_analysis/07.09.26 lab.md",
-    "behavior_analysis/09.09.26 lec - Цифровая криминалистика.md",
     "network_sec/Лекция - компьютерные сети 10.09.26.md",
     "eng/README.md",
     "network_sec/Лабы.md",
@@ -215,7 +217,6 @@
     "research_digital_resources/08.09.26 lec.md",
     "research_digital_resources/README.md",
     "behavior_analysis/README.md",
-    "README.md",
-    "cyber_regulation/README.md"
+    "README.md"
   ]
 }
